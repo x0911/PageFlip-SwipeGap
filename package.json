@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "name": "page-flip",
   "version": "2.0.7",
   "main": "dist/js/page-flip.browser.js",
